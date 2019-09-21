@@ -8,7 +8,7 @@ except ImportError:
     from setuptools import setup, find_packages
 
 setup(
-    name='dataeng-msgtech',
+    name='dataeng_msgtech',
     version="1.0",
     author='teja reddy',
     author_email='teja.reddy@msg.com',
