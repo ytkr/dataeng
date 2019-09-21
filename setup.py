@@ -8,8 +8,8 @@ except ImportError:
     from setuptools import setup, find_packages
 
 setup(
-    name='dataeng_msgtech',
-    version="1.1",
+    name='dataengmsgtech',
+    version="1.2",
     author='teja reddy',
     author_email='teja.reddy@msg.com',
     description="create dataeng pip package",
