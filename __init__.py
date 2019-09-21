@@ -1,1 +1,1 @@
-from .msg.awsSecrets from secrets_manager
+from .msg.awsSecrets import secrets_manager
